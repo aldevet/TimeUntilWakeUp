@@ -1,0 +1,9 @@
+Package: com.alberx.timetilwakeup
+Name: TimeUntilWakeUp
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Shows the time left until the alarm goes on the same style as Android (Toast Message)
+Maintainer: Alberx
+Author: Alberx
+Section: Tweaks
